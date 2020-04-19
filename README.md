@@ -1,2 +1,1 @@
-# beginner_website
-Preetha's Life Experiments
+<h1> Preetha's Life Experiments </h1>
